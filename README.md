@@ -14,3 +14,8 @@ DATASET
 7. DiabetesPedigreeFunction : Diabetes pedigree function
 8. Age : Age (years)
 9. Outcome : Class variable (0 or 1) 268 of 768 are 1, the others are 0
+
+
+Who is Pima Indians ?
+
+"The Pima (or Akimel O'odham, also spelled Akimel O'otham, "River People", formerly known as Pima) are a group of Native Americans living in an area consisting of what is now central and southern Arizona. The majority population of the surviving two bands of the Akimel O'odham are based in two reservations: the Keli Akimel O'otham on the Gila River Indian Community (GRIC) and the On'k Akimel O'odham on the Salt River Pima-Maricopa Indian Community (SRPMIC)." Wikipedia
